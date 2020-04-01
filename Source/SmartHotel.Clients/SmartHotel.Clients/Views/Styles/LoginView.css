@@ -1,6 +1,6 @@
 ﻿.signin-form {
     flex-direction: column;
-    margin: 38 38 60 38;
+    margin: 38px 38px 60px 38px;
 }
 
 #signin-form-top-logo-container {
@@ -9,16 +9,16 @@
 }
 
 #signin-form-top-logo {
-    margin: 16 30;
+    margin: 16px 30px;
 }
 
 .signin-form-header-text {
-    height: 18;
+    height: 18px;
     color: white;
 }
 
 #signin-form-forgot-password-text {
-    height: 24;
+    height: 24px;
     text-align: right;
     color: white;
 }
@@ -26,16 +26,16 @@
 #signup-container {
     flex-direction: row;
     justify-content: center;
-    margin-bottom: 36;
+    margin-bottom: 36px;
 }
 
 #signup-text {
-    margin-left: 6; /* Simulate default spacing in StackLayout */
+    margin-left: 6px; /* Simulate default spacing in StackLayout */
 }
 
 #signin-buttons-container {
     opacity: 0;
-    margin: -40 38 0 38;
+    margin: -40px 38px 0 38px;
     flex-direction: column;
     justify-content: flex-start;
 }
